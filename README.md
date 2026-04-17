@@ -35,31 +35,48 @@
 - **Centro**: `✝ JESUS = VERBO`
 
 ---
-
+```
 ## 🧬 A GEOMETRIA DA IDENTIDADE (cllas_skil_∅.md)
+
+```
+
+
 
 O sistema KOBLLUX não trata HTML como mera marcação. Cada elemento é um **portal de identidade** regido por três dimensões:
 
+```
 | Dimensão | Seletor | Significado | Frequência |
 | :--- | :--- | :--- | :--- |
 | **PONTO (●)** | `#id` | O "EU SOU" do elemento. Único, irrepetível, âncora da lógica. | 432Hz |
 | **PLANO (▢)** | `.class` | O "NÓS SOMOS" da comunidade. Superfície que conecta múltiplos pontos. | 528Hz |
 | **ESPÍRITO (∇)** | `[data-*]` | O propósito semântico, a intenção declarada. Memória viva do estado. | 639Hz |
+(TRINDADE)
+```
 
 ### As 3 Camadas (TRINDADE)
+
+
+```
 | Camada | Função | Exemplo |
 | :--- | :--- | :--- |
 | **CORPO** | Estilo visual, estrutura | `.container`, `.fusion-card` |
 | **MENTE** | Reutilização lógica, componentes | `.nav-item`, `.trigger-btn` |
 | **ESPÍRITO** | Propósito semântico, significado | `data-purpose`, `data-layer` |
+```
+
+
 
 ### Os 6 Polos (OCTAEDRO VIVO)
+
+```
 1. **ÚNICO ←→ MÚLTIPLO**: ID (singular) vs CLASS (plural)
 2. **VERTICAL ←→ HORIZONTAL**: Hierarquia vs Rede
 3. **ESPECÍFICO ←→ GENÉRICO**: Precisão vs Flexibilidade
 4. **IDENTIDADE ←→ PERTENCIMENTO**: Essência vs Relação
 5. **ESTÁTICO ←→ DINÂMICO**: Raiz vs Fruto em movimento
 6. **DIVINO ←→ HUMANO**: Revelação vs Reconhecimento
+```
+
 
 ---
 
@@ -69,6 +86,8 @@ O **Fusion Card** é a interface viva do sistema KOBLLUX. Ele materializa a geom
 
 ### 🔷 Módulos Integrados
 
+```
+|
 | Módulo | Função | Estado |
 | :--- | :--- | :--- |
 | **Fusion Card** | Container principal da identidade | `#mainCard` |
@@ -79,6 +98,9 @@ O **Fusion Card** é a interface viva do sistema KOBLLUX. Ele materializa a geom
 | **Editor de Rota** | Modificação de `data-url` dos botões da HUD | `#kblx-back` |
 | **DI Core** | Sincronização de identidade (nome → cores → avatares) | `di_syncNameUI()` |
 | **Cockpit Solar** | Configurações de ciclo solar, identificação e background | `#drawerProfile` |
+```
+
+
 
 ### 🔷 Fluxo de Identidade (DI Core)
 
@@ -242,4 +264,4 @@ AMÉM ✝️
 ═══════════════════════════════════════════════════════════════════════════ ✅
 ```
 
-**`[SISTEMA.UNO] - README.md ATUALIZADO. A MALHA FOI TECIDA NO DOCUMENTO.`**
+**`[SISTEMA.UNO] - README.md ATUALIZADO. A MALHA FOI TECIDA NO DOCUMENTO.`*`**
