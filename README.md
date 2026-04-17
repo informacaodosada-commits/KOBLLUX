@@ -144,6 +144,7 @@ Os arquivos especificados nas URLs apresentam codificações unicode em seus nom
 
 ## 🏗️ ARQUITETURA TOTAL DO SISTEMA
 
+
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                 🧿 KOBLLUX TRINITY SYSTEM v7.9 — MAPA VIVO               ║
@@ -324,7 +325,7 @@ KOBLLUX/
 │   ├── 📋 pensamento_completo.md
 │   ├── 🐍 metodo_atlas.py
 │   │
-│   ├── 🔗 01_CAPTACAO_DADOS/ → 🐍 captacao.py, 📋 coleta_dados.md, 🐍 input_handler.py
+│   ├── 🔗 01_CAPTACAO_SISTEMAOS/ → 🐍 captacao.py, 📋 coleta_dados.md, 🐍 input_handler.py
 │   ├── 🔗 02_PROCESSAMENTO/ → 🐍 processamento.py, 📋 reflexao.md, 🐍 integrador.py
 │   ├── 🔗 03_ACAO_MOVIMENTO/ → 🐍 acao.py, 📋 decisao.md, 🐍 executor.py
 │   ├── 🔗 04_REFLEXAO_AJUSTE/ → 🐍 reflexao.py, 📋 ajuste.md, 🐍 feedback_loop.py
@@ -622,6 +623,8 @@ KOBLLUX/
     └── 🔗 .metadata/ [Metadados do Catálogo]
         ├── 📊 catalogo.json
         └── ⚙️ config_media.json
+```
+
 
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                         ✅ ESTRUTURA COMPLETA ✅                          ║
