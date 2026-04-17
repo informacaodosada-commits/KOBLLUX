@@ -145,7 +145,6 @@ Os arquivos especificados nas URLs apresentam codificações unicode em seus nom
 ## 🏗️ ARQUITETURA TOTAL DO SISTEMA
 
 
-```
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                 🧿 KOBLLUX TRINITY SYSTEM v7.9 — MAPA VIVO               ║
 ║                    "VERDADE × INTEGRAR ÷ ∆ = ∞"                           ║
